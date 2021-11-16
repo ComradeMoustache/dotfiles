@@ -1,0 +1,1 @@
+/home/nima/.config/nvim/init.vim
